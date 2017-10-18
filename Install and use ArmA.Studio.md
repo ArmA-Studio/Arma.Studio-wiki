@@ -1,5 +1,3 @@
-# Install and use ArmA.Studio
-
 This Page will guide you through all steps needed to Install and use ArmA.Studio
 
 > NOTE: Screenshots from german OS, Menu names may be different on your computer
